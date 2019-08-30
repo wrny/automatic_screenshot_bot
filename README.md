@@ -28,12 +28,12 @@ Using the command line, a user can also add in additional parameters:
 To use it:
 * Have a Windows OS on your computer (Mac / Linux not currently supported)
 * Download the latest version of Chrome
-* Download Python v3.7 or greater (I suggest the Anaconda distribution [here](https://www.anaconda.com/distribution/)). During the install process, Anaconda will ask you if you want to add Python to the Path. Click the box "yes" even though they don't recommend it. If you accidentally don’t click and finish the installation, uninstall the distribution and try it again.
+* Have Python v3.7+ installed. 
 * Download the code from this [git repo](https://github.com/wrny/automatic_screenshot_bot). 
 
 * Add a urls.txt file with the pages you want to visit / screenshot, separated by line. Note that all urls must begin with an http:// or https://, else the program will skip them and add them to the “failed_urls” file.
 * Open a command prompt
-* navigate to the program's directory
+* navigate to the directory the program is in.
 * if it's your first time using the program, type: pip install -r requirements.txt (that will download all of the additional modules needed to run the program).
 * Once you’ve done that (only need to do it once) type in: 
 
