@@ -1,7 +1,5 @@
 # AutomaticScreenshotBot
 
-[Google Drive Video](https://drive.google.com/open?id=1jPCh_kJ3yidts8yMa0nEZXRIn2PiBRMC)
-
 AutomaticScreenshotBot is a Python script that uses Selenium to visit a list of webpages, take screenshots, and save them. A lifesaver for a vital yet repetitive task for online marketing folks.
 
 It's best used by media buyers to see where their ads have been running. As you likely know, all DSPs allow you to pull performance by top-level domain (ex: [https://www.topixoffbeat.com](https://www.topixoffbeat.com), but to get page-level domain [https://www.topixoffbeat.com/slideshow/17550/slide94]( https://www.topixoffbeat.com/slideshow/17550/slide94), you usually need access to log-level data. This script helps you actually check / see the actual pages that your ads are running on without having to visit them all individually. Because that would be impossible. Programmatic media buying happens at such a vast scale that tools such as this one are necessary.
